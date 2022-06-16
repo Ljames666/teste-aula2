@@ -4,7 +4,11 @@ oi mundo!
 
 estou aqui
 
-[<p style = "color:red;" > eu de novo </p>]
+
+<div>
+<p style = "color:red;" > eu de novo </p>
+</div>
+
 
 ## james
 ### james3
